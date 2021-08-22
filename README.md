@@ -8,3 +8,4 @@ flutter create polkawallet
 
 Before publishing make sure you added `Push Notifications` and `Associated Domains` capabilities. Uncomment all **Firebase** sections. Change AppId and Scheme to build Release (iOS), add jks key to `app/build.gradle`.
 
+<img src="demo.mp4" style="zoom:33%;" />
