@@ -1,5 +1,7 @@
 ### Working polkawallet app build 2021-08-22
 
+Original source (broken code) https://github.com/polkawallet-io/app
+
 To make it work, firstly run:
 
 ```sh
